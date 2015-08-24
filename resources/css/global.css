@@ -1,0 +1,13 @@
+/* 
+    Created on : Aug 24, 2015, 11:09:31 AM
+    Author     : Acep
+*/
+
+* {
+    padding: 0px;
+    margin: 0px;
+}
+body,html {
+    width: 100%;
+    height: 100%;
+}
